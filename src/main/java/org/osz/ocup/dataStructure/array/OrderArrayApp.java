@@ -12,7 +12,7 @@ public class OrderArrayApp {
 		oa.insert(88);
 		oa.insert(66);
 		oa.insert(33);
-		//TODO　Test
+		//TODO　Test  ASS
 		
 		oa.display();
 		System.out.println(oa.size());
